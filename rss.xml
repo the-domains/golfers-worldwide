@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Golfersworldwide]]></title>
         <description><![CDATA[Golfersworldwide]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/golfers-worldwide/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 00:26:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 00:27:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/golfers-worldwide/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Society Photoshoot]]></title>
+            <description><![CDATA[<h1>Our Society Photoshoot</h1>]]></description>
+            <link>https://thegrid.ai/golfers-worldwide/our-society-photoshoot/index.html</link>
+            <guid isPermaLink="false">39778d12-b079-4553-a9cb-961007d6855d</guid>
+            <pubDate>Tue, 12 Apr 2016 00:26:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Group photo of our golf society]]></title>
             <description><![CDATA[<h1>Group photo of our golf society</h1>]]></description>
-            <link>undefinedgroup-photo-of-our-golf-society/index.html</link>
+            <link>https://thegrid.ai/golfers-worldwide/group-photo-of-our-golf-society/index.html</link>
             <guid isPermaLink="false">5dc86beb-5a52-4944-8e40-fde6293bd180</guid>
             <pubDate>Tue, 12 Apr 2016 00:26:44 GMT</pubDate>
         </item>
