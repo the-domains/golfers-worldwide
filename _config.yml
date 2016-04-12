@@ -1,14 +1,14 @@
-layout_spectrum: 0.0939882
+layout_spectrum: 0.9982079
 color:
-  saturation: 0.5712708
-  brandStrength: 0.6746167
-  lightness: 0.5770609
-  rhythmicContrast: 0.7128436
+  saturation: 0.6666667
+  brandStrength: 1
+  lightness: 0.6845878
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#89A341'
+    - '#D5D2C6'
+    - '#747056'
+    - '#B0AE9B'
+  rhythmicContrast: 0.7007169
 typography_spectrum: 0.7955292
 name: Golfers worldwide
