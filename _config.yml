@@ -1,14 +1,26 @@
-layout_spectrum: 0.9982079
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1774193
 color:
   saturation: 0.6666667
   brandStrength: 1
-  lightness: 0.6845878
+  rhythmicContrast: 0.7007169
   brandColors:
     - '#FFFFFF'
     - '#89A341'
     - '#D5D2C6'
     - '#747056'
     - '#B0AE9B'
-  rhythmicContrast: 0.7007169
-typography_spectrum: 0.7955292
+  lightness: 0.6845878
+layout_spectrum: 0.9982079
 name: Golfersworldwide
